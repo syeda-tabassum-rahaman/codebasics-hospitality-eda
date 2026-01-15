@@ -21,9 +21,10 @@ The dataset contains hotel booking and property-level information.
 - Jupyter Notebook
 
 ## Key Insights
-- Certain hotel types contribute disproportionately to total revenue
-- Customer ratings vary noticeably across cities
-- A small number of booking platforms generate the majority of revenue
+- Certain hotel categories generate disproportionately higher revenue
+- Mumbai contributes the highest revenue among all cities
+- Online travel platforms account for the majority of bookings
+- Customer ratings show noticeable variation across cities
 
 ## How to Run
 ```bash
